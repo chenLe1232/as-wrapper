@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>编组 22</title>
+    <desc>Created with Sketch.</desc>
+    <g id="新版设计" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="订单确认页面-FTFP-付款备份-10" transform="translate(-30.000000, -1314.000000)">
+            <g id="编组-22" transform="translate(30.000000, 1314.000000)">
+                <circle id="椭圆形" stroke="#141C30" stroke-width="2" cx="16" cy="16" r="15"></circle>
+                <path d="M22.7508889,11 L20.9399105,11 C20.5460517,11 20.1714996,11.1740425 19.939818,11.4724012 L13.8697581,19.2155182 L11.1204689,15.7062523 C10.8887873,15.4114456 10.5180966,15.2338512 10.1203764,15.2338512 L8.30939795,15.2338512 C8.05840947,15.2338512 7.91167775,15.4966909 8.05840947,15.684941 L12.8696656,21.8226044 C13.3600584,22.4512887 14.3755964,22.4512887 14.8659893,21.8226044 L22.9980161,11.4510898 C23.1486092,11.2628398 23.0018774,11 22.7508889,11 Z" id="路径" fill="#141C30" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
